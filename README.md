@@ -48,7 +48,7 @@ Click Restart to start a new game.
 
 ## 📝 Code Highlights :-
 
-Random number generation:
+### Random number generation:
 
 num = random.randint(1, 100)
 Valid number checking to prevent crashes:
