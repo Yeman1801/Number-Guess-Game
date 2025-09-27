@@ -1,8 +1,8 @@
-Number Guess Game :-
+# Number Guess Game :-
 
 🎯A fun and simple number guessing game built with Python's Tkinter module. The player has 7 tries to guess a randomly generated number between 1 and 100, with hints after each guess.
 
-📌 Features :-
+## 📌 Features :-
 
 Random number between 1 and 100 each game.
 
@@ -14,23 +14,23 @@ Restart option to play again without closing the app.
 
 User-friendly Tkinter GUI.
 
-🖥️ Requirements :-
+## 🖥️ Requirements :-
 
 Python 3.x
 
 Tkinter (comes pre-installed with Python)
 
-▶️ How to Run :-
+## ▶️ How to Run :-
 
 Save the code as number_guess_game.py.
 
 Open a terminal or command prompt in the saved file's directory.
 
-Run:
+### Run:
 
 python number_guess_game.py
 
-🎮 How to Play :-
+## 🎮 How to Play :-
 
 The game will display "Guess a number between 1 and 100".
 
@@ -46,7 +46,7 @@ Keep guessing until you find the correct number or run out of tries.
 
 Click Restart to start a new game.
 
-📝 Code Highlights :-
+## 📝 Code Highlights :-
 
 Random number generation:
 
